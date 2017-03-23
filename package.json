@@ -1,0 +1,28 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "Example grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-tet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tobiasz12/hellow-world.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Tobiasz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tobiasz12/hellow-world/issues"
+  },
+  "homepage": "https://github.com/Tobiasz12/hellow-world#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
