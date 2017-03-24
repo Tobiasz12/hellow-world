@@ -21,7 +21,7 @@ module.exports = function(grunt) {
 					dest: 'images/build/'
 				}]
 			}
-  		}
+  		}, 
 
    		watch: {
 			scripts: {

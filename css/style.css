@@ -22,8 +22,7 @@ body {
 header {
   background-color: #313234; }
   header nav img {
-    padding: 10px 0;
-    max-height: 50px }
+    padding: 10px 0; }
   header nav ul {
     float: right;
     margin: 0;
@@ -620,4 +619,3 @@ footer {
 
   .col-offset-12 {
     margin-left: 100%; } }
-
