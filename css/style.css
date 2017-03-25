@@ -22,7 +22,8 @@ body {
 header {
   background-color: #313234; }
   header nav img {
-    padding: 10px 0; }
+    padding: 10px 0;
+    max-height: 50px; }
   header nav ul {
     float: right;
     margin: 0;
